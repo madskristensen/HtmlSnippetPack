@@ -3,7 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/cn94gck26m3nktys?svg=true)](https://ci.appveyor.com/project/madskristensen/htmlsnippetpack)
 
 Download this extension from the
-[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/7f30a50b-8211-40cf-b881-bd1eb2866478)
+[VS Gallery](https://visualstudiogallery.msdn.microsoft.com/57a8ac31-775a-428c-ade9-6837d183a4dc)
 or get the
 [nightly build](http://vsixgallery.com/extension/2a20580c-7be4-4440-bcd6-8dcf5aa2004e/).
 
