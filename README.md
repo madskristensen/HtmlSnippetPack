@@ -1,6 +1,6 @@
 ## HTML Snippet Pack for Visual Studio
 
-[![Build status](https://ci.appveyor.com/api/projects/status/qogg94i8nry0g0j7?svg=true)](https://ci.appveyor.com/project/madskristensen/javascriptsnippetpack)
+[![Build status](https://ci.appveyor.com/api/projects/status/cn94gck26m3nktys?svg=true)](https://ci.appveyor.com/project/madskristensen/htmlsnippetpack)
 
 Download this extension from the
 [VS Gallery](https://visualstudiogallery.msdn.microsoft.com/7f30a50b-8211-40cf-b881-bd1eb2866478)

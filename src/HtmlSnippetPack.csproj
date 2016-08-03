@@ -68,6 +68,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Snippets\HTML Snippet Pack\_default.png">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="Snippets\snippets.pkgdef">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
