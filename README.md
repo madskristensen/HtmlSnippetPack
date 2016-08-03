@@ -21,9 +21,6 @@ the **Tools** top level menu.
 
 ![Snippet manager](art/snippet-manager.png)
 
-Here's the full list of all the snippets:
-
-
 ## Contribute
 Check out the [contribution guidelines](.github/CONTRIBUTING.md)
 if you want to contribute to this project.
