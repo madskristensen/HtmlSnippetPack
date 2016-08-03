@@ -11,7 +11,8 @@ or get the
 
 A snippet pack to make you more productive working with HTML.
 
-![Snippet manager](art/javascript-snippet-pack.gif)
+![Snippet manager](art/snippet-pack.gif)
+
 
 This extension ships a bunch of useful code snippets for
 the JavaScript editor. Get an overview from the
