@@ -1,0 +1,26 @@
+﻿<CodeSnippet Format="1.1.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <Header>
+	<Title>source</Title>
+	<Author>Mads Kristensen</Author>
+	<Description>Markup snippet for iframe elements</Description>
+	<Shortcut>source</Shortcut>
+	<SnippetTypes>
+	  <SnippetType>Expansion</SnippetType>
+	</SnippetTypes>
+  </Header>
+  <Snippet>
+	<Declarations>
+	  <Literal>
+		<ID>src</ID>
+		<ToolTip>The source file path</ToolTip>
+		<Default>file.mp4</Default>
+	  </Literal>
+	  <Literal>
+		<ID>type</ID>
+		<ToolTip>The mime type of the file</ToolTip>
+		<Default>video/mp4</Default>
+	  </Literal>
+	</Declarations>
+	<Code Language="html"><![CDATA[<source src="$src$" type=$type$ />$end$]]></Code>
+  </Snippet>
+</CodeSnippet>
